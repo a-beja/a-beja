@@ -1,6 +1,7 @@
 <!-- <h1 align="center">Full Stack Dev Jr | Software Engineer 🧑‍🎨</h1> -->
 
 <div align="center">
+  <img src="https://img.icons8.com/?size=55&id=DiGZkjCzyZXn&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=J79emsSv2QCu&format=png&color=000000"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/?size=60&id=2KVGsVii5ZKv&format=png&color=000000"/>
