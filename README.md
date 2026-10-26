@@ -1,5 +1,5 @@
 <div>
-  <img align="left" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAd/lain-serial-experiments-lain.gif" alt="Lain" width="350">
+  <img align="left" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAd/lain-serial-experiments-lain.gif" alt="Lain" width="400">
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oi! Meu nome é Abril ฅ՞•ﻌ•՞ฅ. I'm a Frontend Developer Junior 🍓🌸
   <br><br>
