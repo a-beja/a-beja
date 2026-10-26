@@ -10,9 +10,7 @@
 </br>
 
 <div>
-  
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,rails,ruby,angular,postgres,mysql,tailwind,bootstrap,sass,postman,figma,heroku)](https://skillicons.dev)
-  
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,rails,ruby,angular,postgres,mysql,tailwind,bootstrap,sass,postman,figma,heroku)](https://skillicons.dev) 
 </div>
 
 </br>
