@@ -25,6 +25,7 @@
 
 <img src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAd/lain-serial-experiments-lain.gif" alt="Lain" width="400">
 
-<img src="https://giffiles.alphacoders.com/258/2581.gif" alt="GIF" width="400">
-
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<div>
+  <img align="middle" src="https://github-readme-stats.shion.dev/api/top-langs/?username=a-beja&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" width="350">
+  <img align="middle" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAd/lain-serial-experiments-lain.gif" alt="Lain" width="350">
+</div>
